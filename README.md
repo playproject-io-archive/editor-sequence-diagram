@@ -1,4 +1,4 @@
-# ethereum-financial-tools.github.io
+# editor-sequence-diagram
 financial tools for the ethereum ecosystem
 
 [**`=> issue tracker`**](https://github.com/ethereum/financial-tools/issues)
