@@ -3,7 +3,7 @@ financial tools for the ethereum ecosystem
 
 [**`=> issue tracker`**](https://github.com/ethereum/financial-tools/issues)
 
-https://ethereum-financial-tools.github.io
+https://ethereum-play.github.io/editor-sequence-diagram
 
 # contribute
 0. fork ths repo https://github.com/ethereum-financial-tools/ethereum-financial-tools.github.io.git
